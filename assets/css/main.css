@@ -2563,10 +2563,11 @@ input, select, textarea {
 
 	.image {
 		border-radius: 0.25em;
-		border: 0;
+		border:solid #493382 20px;
 		display: inline-block;
 		position: relative;
-		/* margin-top: 100px; */
+		width: 70%;
+		float: left;
 	}
 
 		.image img {
