@@ -3914,6 +3914,14 @@ input, select, textarea {
 			margin-bottom: 25px;
 		}
 
+		i {
+			font-size: 150px;
+			text-align: left;
+		}
+		section {
+			text-align: center;
+			
+		}
 	
 
 		
