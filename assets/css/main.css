@@ -2563,10 +2563,10 @@ input, select, textarea {
 
 	.image {
 		border-radius: 0.25em;
-		border: solid  20px;
 		display: inline-block;
 		position: relative;
 		width: 70%;
+		
 	}
 
 		.image img {
@@ -3915,13 +3915,14 @@ input, select, textarea {
 		}
 
 		i {
-			font-size: 150px;
-			text-align: left;
-		}
-		section {
+			font-size: 75px;
 			text-align: center;
 			
 		}
+		section {
+			text-align: center;
+		}
+		
 	
 
 		
