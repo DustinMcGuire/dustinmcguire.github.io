@@ -1809,7 +1809,10 @@ margin-top: 25%;
 .fab{
     font-size: 100px;
     margin: 25px;
-    
 }
 
+.borderBox{
+    background: rgba(15, 15, 15, 0.527);
+    border-radius: 25px;
+}
  
